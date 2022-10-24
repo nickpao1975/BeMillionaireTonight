@@ -1,6 +1,8 @@
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
+//It is a Quiz game.
+
 public class Main {
     public static void main(String[] args) {
 
