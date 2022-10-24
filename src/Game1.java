@@ -7,6 +7,7 @@ import java.util.concurrent.ThreadLocalRandom;
 public class Game1 {
 
      // Hello git test - David
+    // changing test with GIT via intelliJ
     private QuestionRepositoryLevel1 questionsL1 = new QuestionRepositoryLevel1();     //define an instance variable of question repository L1
 
 
