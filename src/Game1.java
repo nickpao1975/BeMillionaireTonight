@@ -5,6 +5,8 @@ import java.util.concurrent.ThreadLocalRandom;
 
 // Nikos test
 // handles the game's logic - Level 1
+
+//Odett's new comment
 public class Game1 {
 
      // Hello git test - David
